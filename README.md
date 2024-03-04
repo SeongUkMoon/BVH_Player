@@ -1,7 +1,7 @@
 
 # BVH Player by PyOpenGL & Matplotlib
 
-![Example Image](/img/bvh_player.gif)
+![Example Image](./img/bvh_opengl.gif)
 
 ## Installation
 
